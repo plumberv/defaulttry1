@@ -1,2 +1,2 @@
 # defaulttry1
-This is a standard repo illustrate the document and git structure
+This is a an empty repo as placeholder for future projects
